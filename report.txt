@@ -1,0 +1,20 @@
+Score: 90
+
+== ontime ==
+ontime: +0
+
+== junit ==
+edu.wit.cs.comp1000.grading.PA8aGrading#testProcess: +15
+edu.wit.cs.comp1000.grading.PA8aGrading#testProcessZero: +5
+edu.wit.cs.comp1000.grading.PA8aGrading#testProcessMix: +5
+edu.wit.cs.comp1000.grading.PA8aGrading#testProgBadFile: +5
+edu.wit.cs.comp1000.grading.PA8aGrading#testProgGoodFile: +10
+edu.wit.cs.comp1000.grading.PA8aGrading#testProgGoodFileZero: +5
+edu.wit.cs.comp1000.grading.PA8aGrading#testProgGoodFileMixed: +5
+edu.wit.cs.comp1000.grading.PA8bGrading#testProgBadFile: +5
+edu.wit.cs.comp1000.grading.PA8bGrading#testEmptyFile: +5
+edu.wit.cs.comp1000.grading.PA8bGrading#testSingle: +0
+edu.wit.cs.comp1000.grading.PA8bGrading#testDoubles: +5
+edu.wit.cs.comp1000.grading.PA8bGrading#testText: +5
+edu.wit.cs.comp1000.grading.PA8bGrading#testIntegers: +15
+edu.wit.cs.comp1000.grading.PA8bGrading#testMix: +5
